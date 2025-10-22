@@ -1,0 +1,68 @@
+FILE: AR-UT 7703.xlsx
+
+Foglio: 1
+
+Altezza SX -> Limite previsto a 26/12/2025 | Km mancanti: 542
+Altezza DX -> Limite previsto a 24/11/2025 | Km mancanti: 308
+⚠️ ALERT: Altezza DX sotto soglia (308 km mancanti)
+Spessore1 SX -> Limite previsto a 14/02/2027 | Km mancanti: 3,157
+Spessore1 DX -> Limite previsto a 16/10/2026 | Km mancanti: 2,465
+Spessore2 SX -> Limite previsto a 10/02/2026 | Km mancanti: 874
+Spessore2 DX -> Limite previsto a 29/12/2025 | Km mancanti: 565
+QR SX -> Limite previsto a 21/02/2026 | Km mancanti: 947
+QR DX -> Limite previsto a 12/01/2026 | Km mancanti: 667
+
+Foglio: 2
+
+Altezza SX -> impossibile stimare (dati non coerenti)
+Altezza DX -> impossibile stimare (dati non coerenti)
+Spessore1 SX -> impossibile stimare (dati non coerenti)
+Spessore1 DX -> impossibile stimare (dati non coerenti)
+Spessore2 SX -> impossibile stimare (dati non coerenti)
+Spessore2 DX -> impossibile stimare (dati non coerenti)
+QR SX -> impossibile stimare (dati non coerenti)
+QR DX -> impossibile stimare (dati non coerenti)
+
+Foglio: 3
+
+Altezza SX -> impossibile stimare (dati non coerenti)
+Altezza DX -> impossibile stimare (dati non coerenti)
+Spessore1 SX -> impossibile stimare (dati non coerenti)
+Spessore1 DX -> impossibile stimare (dati non coerenti)
+Spessore2 SX -> impossibile stimare (dati non coerenti)
+Spessore2 DX -> impossibile stimare (dati non coerenti)
+QR SX -> impossibile stimare (dati non coerenti)
+QR DX -> impossibile stimare (dati non coerenti)
+
+Foglio: 4
+
+Altezza SX -> impossibile stimare (dati non coerenti)
+Altezza DX -> impossibile stimare (dati non coerenti)
+Spessore1 SX -> impossibile stimare (dati non coerenti)
+Spessore1 DX -> impossibile stimare (dati non coerenti)
+Spessore2 SX -> impossibile stimare (dati non coerenti)
+Spessore2 DX -> impossibile stimare (dati non coerenti)
+QR SX -> impossibile stimare (dati non coerenti)
+QR DX -> impossibile stimare (dati non coerenti)
+
+Foglio: 5
+
+Altezza SX -> impossibile stimare (dati non coerenti)
+Altezza DX -> impossibile stimare (dati non coerenti)
+Spessore1 SX -> impossibile stimare (dati non coerenti)
+Spessore1 DX -> impossibile stimare (dati non coerenti)
+Spessore2 SX -> impossibile stimare (dati non coerenti)
+Spessore2 DX -> impossibile stimare (dati non coerenti)
+QR SX -> impossibile stimare (dati non coerenti)
+QR DX -> impossibile stimare (dati non coerenti)
+
+Foglio: 6
+
+Altezza SX -> impossibile stimare (dati non coerenti)
+Altezza DX -> impossibile stimare (dati non coerenti)
+Spessore1 SX -> impossibile stimare (dati non coerenti)
+Spessore1 DX -> impossibile stimare (dati non coerenti)
+Spessore2 SX -> impossibile stimare (dati non coerenti)
+Spessore2 DX -> impossibile stimare (dati non coerenti)
+QR SX -> impossibile stimare (dati non coerenti)
+QR DX -> impossibile stimare (dati non coerenti)
